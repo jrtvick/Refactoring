@@ -8,24 +8,24 @@ body {
     background-color: #d9dcd6;
 }
 
-.header {
+/* Removed unnecessary class selection and parent element selectors to tidy up both HTML and CSS.*/
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-/* Removed unnecessary class selection to tidy up both HTML and CSS.*/
 span {
     color: #d9dcd6;
 }
 
-.header nav {
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,11 +33,11 @@ span {
     font-size: 20px;
 }
 
-.header nav ul {
+ul {
     list-style-type: none;
 }
 
-.header nav ul li {
+li {
     display: inline-block;
     margin-left: 25px;
 }
@@ -94,8 +94,8 @@ h2 {
     font-size: 36px;
 }
 
-
-.benefits {
+/* Condensed three blocks of CSS into one for the images and removed unnecessary class selectors.*/
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -106,24 +106,12 @@ h2 {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+aside article {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-lead img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
+aside img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
