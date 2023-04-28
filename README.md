@@ -12,22 +12,20 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
-
+![screenshot of Horiseon webpage](assets/images/screenshot.png)
 
 ## Credits
 
 Tutorial Links:
+
 https://www.w3schools.com/cssref/css_selectors.php
+
 https://www.w3schools.com/html/html5_semantic_elements.asp
+
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element
+
 https://choosealicense.com/licenses/mit/
+
 https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 
