@@ -1,9 +1,10 @@
-# refractoring
+# Refractoring
 
 
 ## Description
 
-The purpose of this repository is to demonstrate refractoring code. Illogical and poorly assembled code is hard to navigate and work with, so forming good habits will help you and your contributors to efficiently edit your code if needed in the future. The reason for building this webpage is to better understand and navigate Git, HTML, and CSS. Understanding things like why semantic elements are used in HTML or class selectors might not be necessary streamlines the process of writing my own code in the future. The HTML and CSS files ended up being a lot clearer and in many cases, reduced in size and length. The ability to cutdown on unneeded coding time is key, as well as understanding how and why HTML and CSS work together. I learned how to save time and energy using Semantic Element Tags and avoiding the overuse of Classes and IDs, as well as furthering my knowledge of how to make HTML and CSS work together to style a webpage.
+The purpose of this repository is to demonstrate refractoring code. Illogical and poorly assembled code is hard to navigate and work with, so forming good habits will help you and your contributors to efficiently edit your code if needed in the future. The reason for building this webpage is to better understand and navigate Git, HTML, and CSS. Understanding things like why semantic elements are used in HTML, or why class selectors might not be necessary in your code will streamline the process of writing my own code in the future. The HTML and CSS files ended up being a lot clearer, and in many cases they were reduced in size and length. The ability to cutdown on unneeded coding is key to time management, as well as understanding how and why HTML and CSS work together. I learned how to save time and energy using Semantic Element Tags and avoiding the overuse of Classes and IDs, as well as furthering my knowledge of how to make HTML and CSS work together to style a webpage.
+
 
 ## Installation
 
@@ -13,6 +14,13 @@ N/A
 ## Usage
 
 ![screenshot of Horiseon webpage](assets/images/screenshot.png)
+
+
+The URL of the deployed application: https://jrtvick.github.io/refractoring/
+
+
+The URL of the GitHub repository: https://github.com/jrtvick/refractoring.git
+
 
 ## Credits
 
