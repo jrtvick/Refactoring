@@ -16,10 +16,10 @@ N/A
 ![screenshot of Horiseon webpage](assets/images/screenshot.png)
 
 
-The URL of the deployed application: https://jrtvick.github.io/refractoring/
+The URL of the deployed application: https://jrtvick.github.io/refactoring/
 
 
-The URL of the GitHub repository: https://github.com/jrtvick/refractoring.git
+The URL of the GitHub repository: https://github.com/jrtvick/refactoring.git
 
 
 ## Credits
